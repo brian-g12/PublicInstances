@@ -1,1 +1,2 @@
 https://search.warp-network.com -- My Public Instance of SearXNG, a meta search engine
+https://portfolio.anthonygraham.org -- Public Portfolio I host on my bare metal server I manage and built full-stack.
